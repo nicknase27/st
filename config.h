@@ -121,7 +121,7 @@ unsigned int tabspaces = 8;
 	"gray90", 
 	"black", 
 }; */
-#include "/home/nick/.cache/wal/colors-wal-st.h"
+#include "colors-wal-st.h"
 
 
 /*
